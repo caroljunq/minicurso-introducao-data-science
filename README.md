@@ -16,7 +16,7 @@ Minicurso Introdução Data Science
 ### Verificando instalações
 * 1- Abra o terminal de comando do seu sistemas operacional.
 * 2- digite **python -v** ou **python3 -v**. Devem aparecer infos sobre o python, incluindo sua versão.
-* 3- digite **pip -v ** ou **pip3 -v**. É para verificar se o gerenciador de pacotes do python.
+* 3- digite **pip -v** ou **pip3 -v**. É para verificar se o gerenciador de pacotes do python.
 
 ## Editor de código
 * Pode ser qualquer editor de texto, mas recomendo editores de código que "colocam as letrinhas coloridas" que é mais fácil de entender
