@@ -10,5 +10,8 @@ Minicurso Introdução Data Science
 * **Inglês:** https://realpython.com/installing-python/
 * **Português:** https://tutorial.djangogirls.org/pt/python_installation/
 
-## pip 
+### Pycharm
+* Se você não quiser ficar instalando as dependências na mão (no WINDOWS), pode baixar a IDE PyCharm que roda códigos do python.
+
+## Editor de código
  
